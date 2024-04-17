@@ -13,4 +13,4 @@ I utilize these tools to analyze data and build insightful models.
 
 ---
 📫 How to Reach Me<br>
-Feel free to drop me an email at [lydia2920@gmail.com](mailto:lydia2920@gmail.com) for any collaborations or opportunities!
+Feel free to drop me an email at [lydiazwu@gmail.com](mailto:lydiazwu@gmail.com) for any collaborations or opportunities!
